@@ -1,0 +1,4 @@
+[core]
+    remote = etl
+['remote "etl"']
+    url = s3://rahulrajdvcs3/ETLI/
